@@ -1,14 +1,13 @@
-## 欢迎来到ONScripter站点
+## 欢迎来到克利普的站点
 
 You can use the [editor on GitHub](https://github.com/kalawore/kalawore.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-本站的主要提供UTF-8化且高品质移植到ONScripter平台上的游戏。
+我永远喜欢琪琪。
 
-这种游戏可以被官方发布的ONScripter支持。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### ONScripter中文版
+### ONScripter
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
