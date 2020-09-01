@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/kalawore/kalawore.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-我永远喜欢琪琪。
+简单的网站，没有系统。
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
